@@ -2,3 +2,17 @@
 models
 temp
 __pycache__
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# macOS
+.DS_Store
